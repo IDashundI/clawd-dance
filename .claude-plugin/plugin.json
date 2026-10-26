@@ -1,0 +1,10 @@
+{
+  "name": "clawd-dance",
+  "version": "0.1.0",
+  "description": "Клодик танцует в панели рядом с чатом (быстрее, пока Claude работает)",
+  "types": "./types/index.d.ts",
+  "license": "MIT",
+  "author": {
+    "name": "pashtet"
+  }
+}

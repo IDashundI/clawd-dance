@@ -1,0 +1,5 @@
+{
+  "name": "clawd-dance",
+  "owner": { "name": "IDashundI" },
+  "plugins": [{ "name": "clawd-dance", "source": "./" }]
+}
